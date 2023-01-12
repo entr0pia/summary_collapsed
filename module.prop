@@ -1,7 +1,7 @@
 # id 只能填 字母 数字 半角符号
 id=summary_collapsed
 name=当前显示了
-version=v1
+version=v1.1
 versionCode=20230112
 author=entr0pia
-description=修复Android 9的"当前显示了", 仅保障适用于【文石 Nova2】
+description=修复Android 9的"当前显示了", 不建议【文石】以外的设备使用
